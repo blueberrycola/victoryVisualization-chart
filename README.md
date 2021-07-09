@@ -16,7 +16,7 @@ Run in an empty directory:
 
 Delete all starter code from npx and replace files from my src and public directories
 
-###TODO:
+### TODO:
 Fix y axis: create estimated place holder for trees and tick marks
 Fix ordering of bars: (largest one is the smallest bar, smallest park is largest bar)
 MouseHover action: On mouse hover of any bar display the exact count and the name of the park
