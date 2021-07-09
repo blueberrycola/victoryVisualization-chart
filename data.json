@@ -1,0 +1,77 @@
+{
+    "name" : "ParkNameDataNYC",
+    "description" : "JSON Snippet from park service containing the tree count of all parks in New York City",
+    "fieldName" : "parkname",
+    "cachedContents" : {
+      "top" : [ 
+      {
+        "item" : "Zion Triangle",
+        "count" : "190843"
+      }, {
+        "item" : "PROSPECT PARK WEST",
+        "count" : "12310"
+      }, {
+        "item" : "Flushing Meadows Corona Park",
+        "count" : "9438"
+      }, {
+        "item" : "Riverside Park",
+        "count" : "5390"
+      }, {
+        "item" : "Pelham Bay Park",
+        "count" : "4737"
+      }, {
+        "item" : "Van Cortlandt Park",
+        "count" : "3394"
+      }, {
+        "item" : "Pelham Parkway",
+        "count" : "2563"
+      }, {
+        "item" : "Crotona Park",
+        "count" : "2524"
+      }, {
+        "item" : "Franklin D. Roosevelt Boardwalk and Beach",
+        "count" : "2165"
+      }, {
+        "item" : "Bronx Park",
+        "count" : "2090"
+      }, {
+        "item" : "Belt Parkway/Shore Parkway",
+        "count" : "2077"
+      }, {
+        "item" : "Alley Pond Park",
+        "count" : "2030"
+      }, {
+        "item" : "Hutchinson River Parkway",
+        "count" : "2013"
+      }, {
+        "item" : "Mosholu Parkway",
+        "count" : "1969"
+      }, {
+        "item" : "Bronx River Parkway",
+        "count" : "1904"
+      }, {
+        "item" : "Randall's Island Park",
+        "count" : "1874"
+      }, {
+        "item" : "Forest Park",
+        "count" : "1845"
+      }, {
+        "item" : "Wards Island Park",
+        "count" : "1803"
+      }, {
+        "item" : "Baisley Pond Park",
+        "count" : "1647"
+      }, {
+        "item" : "Marine Park",
+        "count" : "1621"
+      }, {
+        "item" : "Soundview Park",
+        "count" : "1556"
+      },
+      {
+        "item" : "100% Playground",
+        "count" : "183973"
+      } ]
+    }
+    
+  }
